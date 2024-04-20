@@ -1,4 +1,3 @@
-# Passo a passo
 # Passo 1 - Entrar no Sistema da Empresa (https://dlp.hashtagtreinamentos.com/python/intensivao/login)
 # clicar -> pyautogui.click
 # escrever -> pyautogui.write
